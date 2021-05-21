@@ -21,8 +21,10 @@ body {font-family:'Roboto' ,'Noto Sans KR', 'sans-serif';}
 .pointer{
 	cursor:pointer;
 }
+.mt90{ margin-top:90px; }
 .mt40{ margin-top:40px; }
 .mt20{ margin-top:20px; }
 .mt10{ margin-top:10px; }
 .mt5{ margin-top:5px; }
 .mr5{ margin-right:5px; }
+.m0at{ margin: 0 auto; }
